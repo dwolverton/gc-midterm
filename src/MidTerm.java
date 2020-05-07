@@ -3,7 +3,7 @@ public class MidTerm {
 
 	public static void main(String[] args) {
 		System.out.println("Twice upon a time in the mystical land of Shangrila there dwelt an immortal named Kai-Yun and his trusty band of ninja monkeys.");
-		System.out.println("The ninja monkeys craved chocolate covered bananas!");
+		System.out.println("The ninja monkeys craved yogurt covered bananas!");
 	}
 
 }
